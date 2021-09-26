@@ -1,3 +1,4 @@
+#define GLUT_DISABLE_ATEXIT_HACK
 #include <GL/glut.h> // (or others, depending on the system in use)
 
 void init (void)
