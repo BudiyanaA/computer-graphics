@@ -1,3 +1,4 @@
+#define GLUT_DISABLE_ATEXIT_HACK
 #include <GL/glut.h>
 
 #define KEY_ESC 27 /* glut doesn't define this */
@@ -12,7 +13,7 @@ GLvoid keyboard( GLubyte key, GLint x, GLint y)
   }
 }
 
-GLvoid display(GLvoid)
+GLvoid display()
 {
   /* Do all your OpenGL rendering here */
   glClear(GL_COLOR_BUFFER_BIT);

@@ -1,11 +1,10 @@
 /*
 Purpose: Drawing Primitives Line in OpenGL
 */
+#define GLUT_DISABLE_ATEXIT_HACK
 #include <GL/glut.h>
-#include <stdlib.h>
-#include <stdio.h>
 
-GLvoid display(GLvoid)
+GLvoid display()
 {
   /* Do all your OpenGL rendering here */
   glClear(GL_COLOR_BUFFER_BIT);

@@ -1,3 +1,4 @@
+#define GLUT_DISABLE_ATEXIT_HACK
 #include <GL/glut.h>
 
 void mydisplay()
