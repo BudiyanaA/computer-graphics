@@ -1,0 +1,9 @@
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2DHomogen\Transformation2DHomogen\bin\Debug\Transformation2D.exe.config
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2DHomogen\Transformation2DHomogen\obj\Debug\Transformation2D.exe
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2DHomogen\Transformation2DHomogen\obj\Debug\Transformation2D.pdb
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2DHomogen\Transformation2DHomogen\bin\Debug\Transformation2D.exe
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2DHomogen\Transformation2DHomogen\bin\Debug\Transformation2D.pdb
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2DHomogen\Transformation2DHomogen\obj\Debug\Transformation2DHomogen.csprojResolveAssemblyReference.cache
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2DHomogen\Transformation2DHomogen\obj\Debug\Transformation2D.Form1.resources
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2DHomogen\Transformation2DHomogen\obj\Debug\Transformation2D.Properties.Resources.resources
+C:\Users\AsepBudiyanaM\Documents\Praktikum\computer-graphics\Transformation2DHomogen\Transformation2DHomogen\obj\Debug\Transformation2DHomogen.csproj.GenerateResource.Cache
